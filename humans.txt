@@ -4,7 +4,8 @@
 #test
 # TEAM
 
-    <name> ANISHA DAS -- <role> -- <twitter>
+    ANISHA DAS
+    anisha.ec1081@gmail.com
 
 # THANKS
 
