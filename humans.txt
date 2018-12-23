@@ -13,5 +13,9 @@
 
 # TECHNOLOGY COLOPHON
 
+<<<<<<< HEAD
     HTML5, CSS3,AWS
+=======
+    HTML5, CSS3, python,docker
+>>>>>>> develop
     jQuery, Modernizr
