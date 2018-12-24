@@ -2,3 +2,4 @@
 Good Morning!
 What a wonderful day today!
 How are you ?
+Adding git ignored files in git ignore
